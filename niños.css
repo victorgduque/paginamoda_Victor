@@ -1,0 +1,28 @@
+.logo {
+    transform: translate(-420px, -120px)
+     scale(0.6);
+     animation: entrada 2s ease 0s 1 normal forwards;
+}
+
+
+@keyframes entrada {
+	0% {
+		opacity: 0;
+		left: 0px;
+      
+	}
+
+	100% {
+		opacity: 1;
+		left: 100px;
+        
+	}
+}
+
+.prenda4 {
+    opacity: 1;
+}
+.prenda4 :hover {
+    opacity: 0.8;
+    transition: opacity 0.5s ease 0s;
+}
