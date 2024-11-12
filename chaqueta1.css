@@ -3,6 +3,8 @@
      scale(0.6);
      animation: entrada 2s ease 0s 1 normal forwards;
 }
+
+
 @keyframes entrada {
 	0% {
 		opacity: 0;
@@ -16,16 +18,9 @@
         
 	}
 }
-.hombres {
+.chaquetamorada {
     text-align: center;
     text-shadow: 5px 5px 12px #000000;
     text-transform: uppercase;
   
-}
-.prenda2 {
-    opacity: 1;
-}
-.prenda2 :hover {
-    opacity: 0.8;
-    transition: opacity 0.5s ease 0s;
 }
