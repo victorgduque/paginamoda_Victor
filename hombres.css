@@ -15,7 +15,13 @@
 		left: 100px;
         
 	}
+
+    
 }
+ul {
+    list-style: none;
+}
+
 .hombres {
     text-align: center;
     text-shadow: 5px 5px 12px #000000;

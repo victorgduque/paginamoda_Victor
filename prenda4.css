@@ -18,9 +18,17 @@
         
 	}
 }
+ul {
+    list-style: none;
+	
+}
+
 .chaquetaniñosnegra {
     text-align: center;
     text-shadow: 5px 5px 12px #000000;
     text-transform: uppercase;
   
+}
+.imagenprenda4 {
+	text-align: center;
 }

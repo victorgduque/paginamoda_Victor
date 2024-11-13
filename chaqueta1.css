@@ -18,9 +18,16 @@
         
 	}
 }
+ul {
+    list-style: none;
+}
+
 .chaquetamorada {
     text-align: center;
     text-shadow: 5px 5px 12px #000000;
     text-transform: uppercase;
   
+}
+.imagenchaqueta {
+	text-align: center;
 }

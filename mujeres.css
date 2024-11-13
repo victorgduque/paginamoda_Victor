@@ -16,6 +16,10 @@
         
 	}
 }
+ul {
+    list-style: none;
+}
+
 .mujeres {
     text-align: center;
     text-shadow: 5px 5px 12px #000000;
